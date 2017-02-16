@@ -1,0 +1,4 @@
+allergies(x) => sneeze(x)
+cat(y) ∧ allergicToCats(x) => allergies(x)
+cat(Felix)
+allergicToCats(Lise)

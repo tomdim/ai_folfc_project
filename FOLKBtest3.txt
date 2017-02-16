@@ -1,0 +1,4 @@
+cat(x) ∧ fish(y) => likes(x, y)
+cat(x) ∧ fish(y) ∧ likes(x, y) => eats(x, y)
+cat(Felix)
+fish(Nemo)
