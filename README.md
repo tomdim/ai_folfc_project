@@ -38,3 +38,13 @@
 Όταν τελειώσει η επεξεργασία της agenda ελέγχουμε αν αυτά που έχουμε πλέον στην proofs list επαρκούν έτσι ώστε να αποδειχθεί η πρόταση που περιέχει το ask του χρήστη.
 
 Επίσης, ελέγχουμε και αν οι τιμές των μεταβλητών είναι σωστές!
+
+## Παράδειγμα Χρήσης
+>Knowledge Base
+>>![alt tag](https://github.com/tomdim/ai_folfc_project/blob/master/example1.jpg)
+
+>Console Input & Output
+>>![alt tag](https://github.com/tomdim/ai_folfc_project/blob/master/example2.jpg)
+>>![alt tag](https://github.com/tomdim/ai_folfc_project/blob/master/example3.jpg)
+>>![alt tag](https://github.com/tomdim/ai_folfc_project/blob/master/example4.jpg)
+
